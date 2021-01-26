@@ -1,0 +1,23 @@
+﻿<Window x:Class="Manual_Led_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Manual_Led_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Label Content="R channel"></Label>
+            <Slider Maximum="255" Width="275" SmallChange="1" ValueChanged="Slider_ValueChanged" x:Name="RSlider"></Slider>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Label Content="G channel"></Label>
+            <Slider Maximum="255" Width="275" SmallChange="1" x:Name="GSlider" ValueChanged="GSlider_ValueChanged"></Slider>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Label Content="B channel"></Label>
+            <Slider Maximum="255" Width="275" SmallChange="0" Cursor="Arrow" x:Name="BSlider" ValueChanged="BSlider_ValueChanged"></Slider>
+        </StackPanel>
+    </StackPanel>
+</Window>

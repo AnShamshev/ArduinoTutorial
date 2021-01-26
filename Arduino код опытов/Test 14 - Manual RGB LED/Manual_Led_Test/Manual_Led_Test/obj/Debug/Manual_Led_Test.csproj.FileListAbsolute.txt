@@ -1,0 +1,15 @@
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\bin\Debug\Manual_Led_Test.exe.config
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\bin\Debug\Manual_Led_Test.exe
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\bin\Debug\Manual_Led_Test.pdb
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.csprojAssemblyReference.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\MainWindow.g.cs
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\App.g.cs
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test_MarkupCompile.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test_MarkupCompile.lref
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\MainWindow.baml
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.g.resources
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.Properties.Resources.resources
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.csproj.GenerateResource.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.csproj.CoreCompileInputs.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.exe
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 14 - Manual RGB LED\Manual_Led_Test\Manual_Led_Test\obj\Debug\Manual_Led_Test.pdb
