@@ -1,0 +1,10 @@
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\bin\Debug\IRTest_App.exe.config
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\bin\Debug\IRTest_App.exe
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\bin\Debug\IRTest_App.pdb
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.csprojAssemblyReference.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.Properties.Resources.resources
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.csproj.GenerateResource.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.csproj.CoreCompileInputs.cache
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.exe
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.pdb
+I:\OneDrive\Рабочие материалы\Arduino код опытов\Test 26 - IR Remote\IRTest_App\IRTest_App\IRTest_App\obj\Debug\IRTest_App.Form1.resources
